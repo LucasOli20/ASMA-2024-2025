@@ -1,0 +1,87 @@
+[
+    {
+      "topic": "Números Naturais",
+      "text": "Os números naturais são os que usamos para contar: 0, 1, 2, 3, 4…"
+    },
+    {
+      "topic": "Leitura e Escrita de Números",
+      "text": "Aprendemos a ler e a escrever números até à casa dos milhares."
+    },
+    {
+      "topic": "Ordem e Comparação de Números",
+      "text": "Podemos comparar números para saber qual é maior, menor ou igual."
+    },
+    {
+      "topic": "Adição",
+      "text": "A adição junta dois ou mais números. Exemplo: 4 + 3 = 7."
+    },
+    {
+      "topic": "Subtração",
+      "text": "A subtração serve para tirar. Exemplo: 10 - 4 = 6."
+    },
+    {
+      "topic": "Multiplicação",
+      "text": "A multiplicação é uma forma de somar várias vezes o mesmo número. Exemplo: 3 × 4 = 12."
+    },
+    {
+      "topic": "Divisão",
+      "text": "A divisão reparte em partes iguais. Exemplo: 12 ÷ 3 = 4."
+    },
+    {
+      "topic": "Problemas Matemáticos",
+      "text": "Resolvemos problemas do dia a dia com contas de somar, subtrair, multiplicar ou dividir."
+    },
+    {
+      "topic": "Figuras Geométricas",
+      "text": "Aprendemos figuras como o quadrado, triângulo, retângulo e círculo."
+    },
+    {
+      "topic": "Perímetro",
+      "text": "O perímetro é a medida à volta de uma figura. Soma-se o comprimento dos lados."
+    },
+    {
+      "topic": "Medidas de Comprimento",
+      "text": "Usamos o metro, centímetro e quilómetro para medir o comprimento."
+    },
+    {
+      "topic": "Medidas de Massa",
+      "text": "Medimos o peso com gramas e quilogramas."
+    },
+    {
+      "topic": "Medidas de Capacidade",
+      "text": "Para medir líquidos usamos litros e mililitros."
+    },
+    {
+      "topic": "Medidas de Tempo",
+      "text": "Medimos o tempo em segundos, minutos, horas, dias e semanas."
+    },
+    {
+      "topic": "Dinheiro",
+      "text": "Aprendemos a contar e usar euros e cêntimos para fazer compras e dar troco."
+    },
+    {
+      "topic": "Frações Simples",
+      "text": "As frações mostram partes de um todo. Exemplo: ½ é metade de algo."
+    },
+    {
+      "topic": "Tabuada",
+      "text": "A tabuada ajuda a fazer multiplicações mais rapidamente."
+    },
+    {
+      "topic": "Simetria",
+      "text": "Uma figura é simétrica se for igual dos dois lados quando dobramos ao meio."
+    },
+    {
+      "topic": "Estatística Simples",
+      "text": "Aprendemos a contar e organizar dados em tabelas ou gráficos de barras."
+    },
+    {
+      "topic": "Padrões e Sequências",
+      "text": "Reconhecemos e completamos padrões com números, formas ou cores."
+    },
+    {
+      "topic": "Localização e Orientação",
+      "text": "Aprendemos a usar termos como esquerda, direita, cima e baixo para nos orientarmos no espaço."
+    }
+  ]
+  

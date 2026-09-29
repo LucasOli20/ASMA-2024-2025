@@ -1,0 +1,83 @@
+[
+    {
+      "topic": "Conjuntos Numéricos",
+      "text": "Estudamos os conjuntos de números naturais, inteiros, racionais, irracionais e reais."
+    },
+    {
+      "topic": "Potências e Raízes",
+      "text": "Reforçamos o uso de potências e raízes quadradas e cúbicas, com regras de cálculo e simplificação."
+    },
+    {
+      "topic": "Expressões Algébricas",
+      "text": "Aprendemos a simplificar, calcular e representar expressões com letras e números."
+    },
+    {
+      "topic": "Equações do 1.º Grau",
+      "text": "Resolvemos equações com uma incógnita usando operações inversas e propriedades da igualdade."
+    },
+    {
+      "topic": "Inequações",
+      "text": "Estudamos desigualdades com variáveis e representamos as soluções na reta numérica."
+    },
+    {
+      "topic": "Funções",
+      "text": "Relacionamos dois conjuntos de números através de uma regra. Estudamos a função afim (y = mx + b)."
+    },
+    {
+      "topic": "Proporcionalidade Direta e Inversa",
+      "text": "Analisamos situações em que dois valores aumentam ou diminuem na mesma razão (direta) ou de forma oposta (inversa)."
+    },
+    {
+      "topic": "Sistemas de Equações",
+      "text": "Resolvemos dois ou mais problemas em simultâneo, com duas variáveis e duas equações."
+    },
+    {
+      "topic": "Sequências e Sucessões",
+      "text": "Identificamos padrões, progressões aritméticas e outras regularidades numéricas."
+    },
+    {
+      "topic": "Trigonometria no Triângulo Retângulo",
+      "text": "Aprendemos a usar seno, cosseno e tangente para calcular lados e ângulos."
+    },
+    {
+      "topic": "Geometria no Plano e no Espaço",
+      "text": "Trabalhamos com ângulos, triângulos, polígonos, circunferências e sólidos geométricos."
+    },
+    {
+      "topic": "Teorema de Pitágoras",
+      "text": "Em triângulos retângulos, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa."
+    },
+    {
+      "topic": "Perímetro, Área e Volume",
+      "text": "Calculamos as medidas de figuras planas e sólidos geométricos com fórmulas específicas."
+    },
+    {
+      "topic": "Transformações Geométricas",
+      "text": "Aplicamos simetrias, rotações, reflexões e ampliações em figuras no plano."
+    },
+    {
+      "topic": "Estatística",
+      "text": "Analisamos dados, construímos gráficos e calculamos medidas como média, mediana e desvio padrão."
+    },
+    {
+      "topic": "Probabilidades",
+      "text": "Calculamos a probabilidade de um acontecimento com base em casos possíveis e favoráveis."
+    },
+    {
+      "topic": "Números em Notação Científica",
+      "text": "Usamos potências de base 10 para representar números muito grandes ou muito pequenos."
+    },
+    {
+      "topic": "Intervalos Reais e Representação na Reta",
+      "text": "Representamos subconjuntos dos números reais em notação de intervalo e na reta numérica."
+    },
+    {
+      "topic": "Geometria Analítica",
+      "text": "Estudamos pontos, retas e distâncias no plano cartesiano, usando coordenadas."
+    },
+    {
+      "topic": "Problemas com Raciocínio Lógico",
+      "text": "Resolvemos desafios e problemas matemáticos usando dedução, estratégias e organização do pensamento."
+    }
+  ]
+  

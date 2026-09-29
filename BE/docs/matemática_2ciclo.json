@@ -1,0 +1,83 @@
+[
+    {
+      "topic": "Números Naturais e Inteiros",
+      "text": "Aprendemos a trabalhar com números positivos e negativos, a somar, subtrair, multiplicar e dividir."
+    },
+    {
+      "topic": "Potências e Raízes Quadradas",
+      "text": "As potências mostram multiplicações repetidas. A raiz quadrada é o número que multiplicado por si dá um certo valor."
+    },
+    {
+      "topic": "Múltiplos e Divisores",
+      "text": "Estudamos os múltiplos de um número e os seus divisores. Identificamos números primos e compostos."
+    },
+    {
+      "topic": "Máximo Divisor Comum (MDC)",
+      "text": "O MDC é o maior número que divide dois ou mais números ao mesmo tempo."
+    },
+    {
+      "topic": "Mínimo Múltiplo Comum (MMC)",
+      "text": "O MMC é o menor número que é múltiplo comum de dois ou mais números."
+    },
+    {
+      "topic": "Frações",
+      "text": "Aprendemos a comparar, simplificar, somar, subtrair, multiplicar e dividir frações."
+    },
+    {
+      "topic": "Números Decimais",
+      "text": "Lidamos com números com vírgulas, fazemos operações e aprendemos a arredondar."
+    },
+    {
+      "topic": "Percentagens",
+      "text": "A percentagem é uma parte de 100. Usamos para calcular descontos, aumentos ou proporções."
+    },
+    {
+      "topic": "Proporcionalidade",
+      "text": "Estudamos situações em que os valores aumentam ou diminuem proporcionalmente."
+    },
+    {
+      "topic": "Expressões Numéricas",
+      "text": "Usamos parênteses e ordens de operações para resolver expressões com várias contas."
+    },
+    {
+      "topic": "Sequências e Regularidades",
+      "text": "Identificamos padrões e completamos sequências numéricas ou geométricas."
+    },
+    {
+      "topic": "Geometria - Polígonos",
+      "text": "Estudamos figuras com lados retos, como triângulos, quadrados e pentágonos."
+    },
+    {
+      "topic": "Perímetro e Área",
+      "text": "Calculamos o contorno (perímetro) e a superfície (área) de figuras planas."
+    },
+    {
+      "topic": "Sólidos Geométricos",
+      "text": "Analisamos formas com volume, como cubos, prismas, pirâmides e cilindros."
+    },
+    {
+      "topic": "Medidas de Volume",
+      "text": "Aprendemos a calcular o volume de sólidos em unidades cúbicas, como cm³ ou m³."
+    },
+    {
+      "topic": "Transformações Geométricas",
+      "text": "Trabalhamos com simetrias, translações, rotações e ampliações de figuras."
+    },
+    {
+      "topic": "Estatística",
+      "text": "Organizamos dados em tabelas e gráficos. Calculamos média, moda e mediana."
+    },
+    {
+      "topic": "Probabilidades Simples",
+      "text": "Estudamos a possibilidade de acontecer um certo resultado num jogo ou experiência."
+    },
+    {
+      "topic": "Sistema Métrico Decimal",
+      "text": "Convertimos medidas de comprimento, massa e capacidade entre unidades diferentes."
+    },
+    {
+      "topic": "Problemas do Dia a Dia",
+      "text": "Resolvemos problemas que envolvem raciocínio lógico e aplicação dos conhecimentos matemáticos."
+    }
+  ]
+  

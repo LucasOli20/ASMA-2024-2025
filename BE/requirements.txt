@@ -1,0 +1,15 @@
+spade==3.3.3
+python-dotenv==1.0.1
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+jsonpickle
+requests==2.31.0
+google-generativeai==0.3.2
+slixmpp==1.7.1
+google-cloud-language
+databases
+asyncpg
+sqlalchemy
+faiss-cpu
+sentence-transformers
+google-cloud-speech

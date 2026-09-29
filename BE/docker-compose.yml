@@ -1,0 +1,30 @@
+services:
+  chatbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chatbot
+    env_file: .env
+    volumes:
+      - ./credentials:/app/credentials
+    ports:
+      - "8000:8000"
+    networks:
+      - chatbot_net
+    depends_on:
+      - postgres
+  
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: chatbot
+    ports:
+      - "5432:5432"
+    networks:
+      - chatbot_net
+networks:
+  chatbot_net:
+    driver: bridge
